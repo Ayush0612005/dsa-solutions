@@ -36,14 +36,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 ## Progress
 
-| Topic | Problems Solved |
-|---------|---------|
-| Arrays | 0 |
-| Linked List | 0 |
-| Trees | 0 |
-| Graphs | 0 |
-| DP | 0 |
-| Total | 0 |
+| Total | 60 |
 
 ---
 
