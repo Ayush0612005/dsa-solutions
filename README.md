@@ -36,7 +36,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 ## Progress
 
-| Total | 60 |
+| Total | 77 |
 
 ---
 
