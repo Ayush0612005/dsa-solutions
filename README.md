@@ -2,7 +2,7 @@
 
 This repository contains my solutions to Data Structures and Algorithms problems solved during interview preparation.
 
-## Language
+## Languages
 
 - Java
 
