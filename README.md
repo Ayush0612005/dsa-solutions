@@ -1,6 +1,6 @@
 # DSA Solutions
 
-This repository contains my solutions to Data Structures and Algorithms problems solved during interview preparation.
+This repository contains my solutions to Data Structures and Algorithms problems solved during interview preparation
 
 ## Languages
 
