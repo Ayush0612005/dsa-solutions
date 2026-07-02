@@ -11,7 +11,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Arrays
 - Strings
 - Linked Lists
-- Stacks
+- Stac
 - Queues
 - Hashing
 - Binary Search
