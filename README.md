@@ -5,6 +5,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Languages
 
 - Java
+- MYSQL
 
 ## Topics Covered
 
@@ -36,7 +37,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 ## Progress
 
-| Total | 117 |
+| Total | 118 |
 
 ---
 
