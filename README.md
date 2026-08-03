@@ -4,7 +4,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 ## Languages
 
-- Java
+- Jav
 - MYSQL
 
 ## Topics Covered
