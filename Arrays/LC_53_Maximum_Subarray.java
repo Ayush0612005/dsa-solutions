@@ -35,7 +35,7 @@ class Solution {
 }
 
 
-//another way os solving the same question
+//another way of solving the same question
 
 class Solution {
     public int maxSubArray(int[] nums) {
