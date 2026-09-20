@@ -45,3 +45,24 @@ class Solution {
         return missing;
     }
 }
+
+
+//very easy approach to solve the same question just that complexity will be O(nlogn)
+
+class Solution {
+    public List<Integer> findMissingElements(int[] nums) {
+        List<Integer> result = new ArrayList<>();
+
+        Arrays.sort(nums);
+
+        for(int i = 1; i < nums.length; i++){
+            int current = nums[i-1] + 1;
+
+            while(current < nums[i]){
+                result.add(current);
+                current++;
+            }
+        }
+        return result;
+    }
+}
